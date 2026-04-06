@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Things I'm using</h3>
+<h3 align="left">Things I've worked with</h3>
 
 ###
 
